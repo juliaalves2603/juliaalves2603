@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Júlia Alves
 
-<!--
-**juliaalves2603/juliaalves2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (2º semestre)  
+💻 Foco em Desenvolvimento de Software  
+📍 Campinas – SP  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias e Estudos
+- Java (básico)
+- Lógica de Programação
+- Git e GitHub
+- Banco de Dados (SQL – conceitos)
+- HTML e CSS (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Em aprendizado contínuo
+- Programação orientada a objetos
+- Desenvolvimento de aplicações
+- Boas práticas de código
+
+### 🔗 Contato
+- LinkedIn: www.linkedin.com/in/júliag-alves
